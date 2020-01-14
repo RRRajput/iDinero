@@ -1,0 +1,26 @@
+{
+  "james":{
+    "name": "Jamie Anderson",
+    "age": 24,
+    "email": "ja@CosoMail.com",
+    "phone": "+33123454"    
+  },
+  "rehan":{
+    "name": "Rehan Rajput",
+    "age": 22,
+    "email": "RR@CosoMail.com",
+    "phone": "+33112454"    
+  },
+  "ghevini":{
+    "name": "Kevin M",
+    "age": 54,
+    "email": "KM@CosoMail.com",
+    "phone": "+33112454"    
+  },
+  "marc":{
+    "name": "Marky Mark",
+    "age": 41,
+    "email": "MM@CosoMail.com",
+    "phone": "+65465464"    
+  }
+}
